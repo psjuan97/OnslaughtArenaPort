@@ -18,6 +18,7 @@ make -j
 * No Sound
 * Menu no fully working
 * No Text rendering
+* I use an old project as a [template](https://github.com/psjuan97/JamEngine) so the code is very messy. Lot of work in cleaning/refactoring is necesay.
 
 # Technical Stack 
 The main idea of this port is not to recreate line by a line the code in JS from to original game to C++. 
