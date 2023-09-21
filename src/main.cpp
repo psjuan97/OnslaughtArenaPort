@@ -43,7 +43,7 @@ int main() {
 
   AssetManager *Assets = AssetManager::Instance();
 
-  Assets->loadFont(DEFAULT_FONT, "assets/font.ttf");
+  //Assets->loadFont(DEFAULT_FONT, "assets/font.ttf");
 
   eText::setFont(Assets->getFont(DEFAULT_FONT));
 
